@@ -1,0 +1,36 @@
+.navbar {
+    box-shadow: 2px 2px 5px #000;
+    opacity: .9;
+    background: black !important;
+}
+
+.navbar .nav-link {
+    color: #C3C9CA;
+}
+
+.navbar .nav-link:hover {
+    color: white;
+}
+
+.main-header {
+    background: url(../img/fondo.jfif);
+    background-size: cover;
+}
+
+.background-overlay {
+    background: rgba(19, 15, 64,0.7);
+}
+
+#join-section {
+    background: black;
+    opacity: .9;
+    color: #C3C9CA;
+}
+
+.fab {
+    font-size: 25px;
+}
+
+.contact {
+    width: 500px;
+}
